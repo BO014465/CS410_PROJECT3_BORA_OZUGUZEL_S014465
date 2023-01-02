@@ -1,0 +1,43 @@
+2
+0 1
+3
+0 1 X
+b
+10
+q1 q2 q3 q4 q5 q6 q7 q8 qA qR
+q1
+qA
+qR
+q1 0 X R q2
+q1 1 X R q5
+q1 X X R qA
+q1 b b R q8
+q2 0 0 R q2
+q2 1 1 R q2
+q2 X X L q3
+q2 b b L q3
+q3 0 X L q4
+q3 1 1 L qR
+q3 X X L qR
+q3 b b L qR
+q4 0 X L q8
+q4 1 1 L qR
+q4 X X L qR
+q4 b b L qR
+q5 0 0 R q5
+q5 1 1 R q5
+q5 X X L q6
+q5 b b L q6
+q6 0 0 L qR
+q6 1 X L q7
+q6 X X L qR
+q6 b b L qR
+q7 0 0 L qR
+q7 1 X L q8
+q7 X X L qR
+q7 b b L qR
+q8 0 0 L q8
+q8 1 1 L q8
+q8 X X R q1
+q8 b b R q1
+101110011
